@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "THis is a veggie",
+      "image": "http://demandware.edgesuite.net/sits_pod32/dw/image/v2/BBBW_PRD/on/demandware.static/-/Sites-jss-master/default/dw58829350/images/products/vegetables/02735jp_01_hercules.jpg?sw=1120",
+      "likes": 11,
+      "id": 9
+    },
+    {
+      "name": "is this veggietales?",
+      "image": "http://www.bite.co.nz/images/recipes/Generic_Cauliflower_1.jpg?width=1200&height=800&upscale=false",
+      "likes": 5,
+      "id": 10
+    },
+    {
+      "name": "go joe",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71DTfTnNEHL._SL1500_.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
